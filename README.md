@@ -23,6 +23,7 @@ To run the game, first ensure you have Python and Pygame installed on your machi
 
 ```bash
 python main.py
+```
 
 ## Contributing
 
