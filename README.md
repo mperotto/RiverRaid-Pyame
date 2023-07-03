@@ -34,3 +34,14 @@ We are actively seeking contributors to help improve RiverRaid-Pygame. Here are 
 - **Additional Enemies:** We currently have some enemies implemented, but are looking to add more diversity. In particular, we have not yet implemented the airplane enemy.
 
 If you are interested in contributing to any of these areas, or have other improvements in mind, please feel free to make a pull request or open an issue to discuss your ideas.
+
+
+## Your Support is Welcome and Appreciated!
+
+Hey there, fellow gamers and coders! I poured buckets of sweat, countless late nights, and an unhealthy amount of coffee into creating this game. At this point, I'm pretty sure I've single-handedly kept the local pizza place afloat with all the late-night snack orders!
+
+So, if you enjoyed playing, or even just admire the effort that went into coding this game, I'd be incredibly grateful for your support. It doesn't have to be much – a few dollars would help replenish my dwindling coffee supplies or contribute to the "pizza fund" for future game development nights!
+
+You can donate through GitHub Sponsors by clicking the "Sponsor this project" link. And remember, every little bit helps – even a small donation is a huge morale boost that shows me you appreciate the work I've done. 
+
+Thank you so much, and happy gaming!
